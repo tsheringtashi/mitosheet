@@ -1,5 +1,5 @@
 # mitosheet
-Work with excel in python
+How to install mitosheet in your pc.
 
 
 goto:
