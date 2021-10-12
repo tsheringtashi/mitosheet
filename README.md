@@ -3,7 +3,7 @@ Work with excel in python
 
 
 goto:
-> anaconda prompt
+> anaconda prompt <br>
 > conda create -n mitoenv python=3.8
 > conda activate mitoenv
 > pip install mitoinstaller
